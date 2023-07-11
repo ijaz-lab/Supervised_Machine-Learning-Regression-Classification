@@ -7,4 +7,4 @@
 
 ![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/2a9e6e70-ac00-4c43-8607-a0f7ec6b20dc)
 
-For Anonmly detection example such as unusual transaction (Finance)
+For Anamoly detection example such as unusual transaction (Finance)
