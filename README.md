@@ -11,3 +11,5 @@ For Anamoly detection example such as unusual transaction (Finance)
 
 
 # Regression Model
+## Linear regression model part 1
+![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/bd926d6f-e9d7-4c98-acda-394aea852f05)
