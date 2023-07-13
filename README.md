@@ -25,3 +25,24 @@ For Anamoly detection example such as unusual transaction (Finance)
 ![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/191847b3-b2c9-49ad-970d-8bc77b2757f9)
 #
 ![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/67c59d4f-8d62-4344-b07e-48a1cd61cb7d)
+
+# Cost function intuition
+![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/aa2a3126-a583-49e3-b81e-878d59800bfc)
+ ##
+ ![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/feaa9d1c-b28c-4d58-bd5d-f90c79f45461)
+
+ ## When w = 0.5
+ ![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/3c175aa8-2e1c-477b-81c3-089442bfc987)
+
+  ## When w = 0
+  ![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/98f8a65d-c4f1-4cf6-9dff-a17dceac6920)
+
+## 
+![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/42deab82-08a7-48de-b72d-3ac6b7bbeae6)
+
+## What value is BEST for w 
+
+![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/63a53264-c91e-4417-ade1-2c1b07040f76)
+
+
+
