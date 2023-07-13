@@ -21,7 +21,7 @@ For Anamoly detection example such as unusual transaction (Finance)
 
 # Cost function formula
 ![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/ade81e7a-b4a3-4a60-a61c-085c2f57ae6d)
-
+#
 ![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/191847b3-b2c9-49ad-970d-8bc77b2757f9)
-
+#
 ![image](https://github.com/ijaz-lab/Supervised_Machine-Learning-Regression-Classification/assets/78338522/67c59d4f-8d62-4344-b07e-48a1cd61cb7d)
